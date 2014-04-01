@@ -1,4 +1,4 @@
-Pictures-game
+Gegel's Holyday
 =============
 gegel.stop();
 mistk.stop();

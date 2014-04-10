@@ -1,0 +1,519 @@
+gegel.stop();
+gegel._x = -521.25; 
+gegel._y = 89.85;
+mistk.stop();
+sucs.stop();
+abt.stop(); 
+abt._alpha=30;
+inf.stop(); 
+bck.stop(); 
+srt.stop(); 
+brf.stop(); 
+touch.stop();
+ 
+ 
+ var ln2A = linu2._alpha;
+ var ln3A = linu3._alpha;
+ var ln4A = linu4._alpha;
+ var ln5A = linu5._alpha;
+ var ln6A = linu6._alpha;
+ var ln7A = linu7._alpha;
+ var ln9A = linu9._alpha;
+ var ln10A = linu10._alpha;
+ var ln11A = linu11._alpha;
+ var ln12A = linu12._alpha;
+ var ln13A = linu13._alpha;
+ var ln14A = linu14._alpha;
+ var ln15A = linu15._alpha;
+ var ln16A = linu16._alpha;
+ var ln17A = linu17._alpha;
+ var ln18A = linu18._alpha;
+ var ln19A = linu19._alpha;
+ var ln20A = linu20._alpha;
+ var ln21A = linu21._alpha;
+ var ln22A = linu22._alpha;
+ var ln23A = linu23._alpha;
+ var ln24A = linu24._alpha;
+ var ln25A = linu25._alpha;
+ var ln26A = linu26._alpha;
+ var ln27A = linu27._alpha;
+ var ln28A = linu28._alpha;
+ var ln29A = linu29._alpha;
+ var ln30A = linu30._alpha; 
+ var ln20A = linu31._alpha;
+ var ln21A = linu32._alpha;
+ var ln22A = linu33._alpha;
+ var ln23A = linu34._alpha;
+ var ln24A = linu35._alpha;
+ var ln25A = linu36._alpha;
+ var ln26A = linu37._alpha;
+ var ln27A = linu38._alpha;
+ var ln28A = linu39._alpha;
+ var ln29A = linu40._alpha;
+ var ln30A = linu41._alpha;
+ 
+ 
+ 
+ var linu2Al:Number = 100;
+ var linu3Al:Number = 100;
+ var linu4Al:Number = 100;
+ var linu5Al:Number = 100;
+ var linu6Al:Number = 100;
+ var linu7Al:Number = 100;
+ var linu9Al:Number = 100;
+ var linu10Al:Number = 100;
+ var linu11Al:Number = 100;
+ var linu12Al:Number = 100;
+ var linu13Al:Number = 100;
+ var linu14Al:Number = 100;
+ var linu15Al:Number = 100;
+ var linu16Al:Number = 100;
+ var linu17Al:Number = 100;
+ var linu18Al:Number = 100;
+ var linu19Al:Number = 100;
+ var linu20Al:Number = 100;
+ var linu21Al:Number = 100;
+ var linu22Al:Number = 100;
+ var linu23Al:Number = 100;
+ var linu24Al:Number = 100;
+ var linu25Al:Number = 100;
+ var linu26Al:Number = 100;
+ var linu27Al:Number = 100;
+ var linu28Al:Number = 100;
+ var linu29Al:Number = 100;
+ var linu30Al:Number = 100;
+ var linu31Al:Number = 100;
+ var linu32Al:Number = 100;
+ var linu33Al:Number = 100;
+ var linu34Al:Number = 100;
+ var linu35Al:Number= 100;
+ var linu36Al:Number = 100;
+ var linu37Al:Number = 100;
+ var linu38Al:Number = 100;
+ var linu39Al:Number = 100;
+ var linu40Al:Number = 100;
+ var linu41Al:Number = 100;
+ 
+ 
+ linu2._alpha=0; 
+ linu3._alpha=0; 
+ linu4._alpha=0; 
+ linu5._alpha=0; 
+ linu6._alpha=0; 
+ linu7._alpha=0; 
+ linu8._alpha=100; 
+ linu9._alpha=0; 
+ linu10._alpha=0; 
+ linu11._alpha=0; 
+ linu12._alpha=0; 
+ linu13._alpha=0; 
+ linu14._alpha=0; 
+ linu15._alpha=0; 
+ linu16._alpha=0; 
+ linu17._alpha=0; 
+ linu18._alpha=0; 
+ linu19._alpha=0; 
+ linu20._alpha=0; 
+ linu21._alpha=0; 
+ linu22._alpha=0; 
+ linu23._alpha=0; 
+ linu24._alpha=0; 
+ linu25._alpha=0; 
+ linu26._alpha=0; 
+ linu27._alpha=0; 
+ linu28._alpha=0; 
+ linu29._alpha=0; 
+ linu30._alpha=0; 
+ linu31._alpha=0; 
+ linu32._alpha=0; 
+ linu33._alpha=0; 
+ linu34._alpha=0; 
+ linu35._alpha=0; 
+ linu36._alpha=0; 
+ linu37._alpha=0;   
+ linu38._alpha=0; 
+ linu39._alpha=0; 
+ linu40._alpha=0; 
+ linu41._alpha=0; 
+ linu1._alpha=100;
+   
+ 
+  umbr2.onRelease=function(){ 
+ linu2.play(); 
+ linu2._alpha = linu2Al;
+  CheckGame();
+ } 
+ 
+  umbr3.onRelease=function(){ 
+ linu3.play(); 
+ linu3._alpha=linu3Al;
+ CheckGame();
+ } 
+ 
+  umbr4.onRelease=function(){ 
+ linu4.play(); 
+ linu4._alpha=linu4Al;
+ CheckGame();
+ }   
+ 
+  umbr5.onRelease=function(){ 
+ linu5.play(); 
+ linu5._alpha=linu5Al;
+ CheckGame();
+ }  
+ 
+  umbr6.onRelease=function(){ 
+ linu6.play(); 
+ linu6._alpha=linu6Al;
+ CheckGame();
+ } 
+ 
+  umbr7.onRelease=function(){ 
+ linu7.play(); 
+ linu7._alpha=linu7Al;
+ CheckGame();
+ }  
+ 
+
+ 
+  umbr9.onRelease=function(){ 
+ linu9.play(); 
+ linu9._alpha=linu9Al;
+ CheckGame();
+ }  
+ 
+  umbr10.onRelease=function(){ 
+ linu10.play(); 
+ linu10._alpha=linu10Al;
+ CheckGame();
+ }  
+ 
+  umbr11.onRelease=function(){ 
+ linu11.play(); 
+ linu11._alpha=linu11Al;
+ CheckGame();
+ }  
+ 
+  umbr12.onRelease=function(){ 
+ linu12.play(); 
+ linu12._alpha=linu12Al;
+ CheckGame();
+ }  
+ 
+  umbr13.onRelease=function(){ 
+ linu13.play(); 
+ linu13._alpha=linu13Al;
+ CheckGame();
+ } 
+ 
+  umbr14.onRelease=function(){ 
+ linu14.play(); 
+ linu14._alpha=linu14Al;
+ CheckGame();
+ }  
+ 
+  umbr15.onRelease=function(){ 
+ linu15.play(); 
+ linu15._alpha=linu15Al;
+ CheckGame();
+ }  
+ 
+  umbr16.onRelease=function(){ 
+ linu16.play(); 
+ linu16._alpha=linu16Al;
+ CheckGame();
+ }   
+ 
+  umbr17.onRelease=function(){ 
+ linu17.play(); 
+ linu17._alpha=linu17Al;
+ CheckGame();
+ }  
+ 
+  umbr18.onRelease=function(){ 
+ linu18.play(); 
+ linu18._alpha=linu18Al;
+ CheckGame();
+ }  
+ 
+  umbr19.onRelease=function(){ 
+ linu19.play(); 
+ linu19._alpha=linu19Al;
+ CheckGame();
+ }  
+ 
+  umbr20.onRelease=function(){ 
+ linu20.play(); 
+ linu20._alpha=linu20Al;
+ CheckGame();
+ }  
+ 
+  umbr21.onRelease=function(){ 
+ linu21.play(); 
+ linu21._alpha=linu21Al;
+ CheckGame();
+ }  
+ 
+  umbr22.onRelease=function(){ 
+ linu22.play(); 
+ linu22._alpha=linu22Al;
+ CheckGame();
+ } 
+ 
+  umbr23.onRelease=function(){ 
+ linu23.play(); 
+ linu23._alpha=linu23Al;
+ CheckGame();
+ }  
+ 
+  umbr24.onRelease=function(){ 
+ linu24.play(); 
+ linu24._alpha=linu24Al;
+ CheckGame();
+ }  
+ 
+ umbr25.onRelease=function(){ 
+ linu25.play(); 
+ linu25._alpha=linu25Al;
+ CheckGame();
+ }  
+ 
+  umbr26.onRelease=function(){ 
+ linu26.play(); 
+ linu26._alpha=linu26Al;
+ CheckGame();
+ }  
+ 
+  umbr27.onRelease=function(){ 
+ linu27.play(); 
+ linu27._alpha=linu27Al;
+ CheckGame();
+ } 
+ 
+  umbr28.onRelease=function(){ 
+ linu28.play(); 
+ linu28._alpha=linu28Al;
+ CheckGame();
+ } 
+ 
+  umbr29.onRelease=function(){ 
+ linu29.play(); 
+ linu29._alpha=linu29Al;
+ CheckGame();
+ } 
+ 
+  umbr30.onRelease=function(){ 
+ linu30.play(); 
+ linu30._alpha=linu30Al;
+ CheckGame();
+ }  
+ 
+  umbr31.onRelease=function(){ 
+ linu31.play(); 
+ linu31._alpha=linu31Al;
+ CheckGame();
+ }  
+  
+  umbr32.onRelease=function(){ 
+ linu32.play(); 
+ linu32._alpha=linu32Al;
+ CheckGame();
+ }  
+ 
+  umbr33.onRelease=function(){ 
+ linu33.play(); 
+ linu33._alpha=linu33Al;
+ CheckGame();
+ }  
+ 
+  umbr34.onRelease=function(){ 
+ linu34.play(); 
+ linu34._alpha=linu34Al;
+ CheckGame();
+ }  
+ 
+  umbr35.onRelease=function(){ 
+ linu35.play(); 
+ linu35._alpha=linu35Al;
+ CheckGame();
+ } 
+ 
+  umbr36.onRelease=function(){ 
+ linu36.play(); 
+ linu36._alpha=linu36Al;
+ CheckGame();
+ }  
+ 
+  umbr37.onRelease=function(){ 
+ linu37.play(); 
+ linu37._alpha=linu37Al;   
+ CheckGame();
+ }  
+ 
+  umbr38.onRelease=function(){ 
+ linu38.play(); 
+ linu38._alpha=linu38Al;   
+ CheckGame();
+ }  
+ 
+  umbr39.onRelease=function(){ 
+ linu39.play(); 
+ linu39._alpha=linu40Al;   
+ CheckGame();
+ } 
+ 
+  umbr40.onRelease=function(){ 
+ linu40.play(); 
+ linu40._alpha=linu41Al;   
+ CheckGame();
+ }  
+ 
+  umbr41.onRelease=function(){  
+ linu41.play(); 
+ linu41._alpha=linu41Al;   
+ CheckGame();
+ }  
+ 
+ 
+ 
+ lg1._alpha=0; 
+ lg2._alpha=0;
+ lg3._alpha=0; 
+ lg4._alpha=0; 
+ lg5._alpha=0; 
+ lg6._alpha=0; 
+ lg7._alpha=0; 
+ lg8._alpha=0; 
+ lg9._alpha=0; 
+ lg10._alpha=0; 
+ lg11._alpha=0; 
+ lg12._alpha=0; 
+ lg13._alpha=0; 
+ lg14._alpha=0; 
+ lg15._alpha=0; 
+ 
+ gri51.onRelease=function(){ 
+ lg15.play(); 
+ lg15._alpha=100; 
+ mistk.play();
+ }
+ 
+ gri52.onRelease=function(){ 
+ lg1.play(); 
+ lg1._alpha=100; 
+ mistk.play();
+ } 
+ 
+ gri65.onRelease=function(){ 
+ lg2.play(); 
+ lg2._alpha=100; 
+ mistk.play();
+ } 
+ 
+ gri28.onRelease=function(){ 
+ lg5.play(); 
+ lg5._alpha=100; 
+ mistk.play();
+ } 
+ 
+ gri15.onRelease=function(){ 
+ lg9.play(); 
+ lg9._alpha=100; 
+ mistk.play();
+ } 
+ 
+ gri26.onRelease=function(){ 
+ lg10.play(); 
+ lg10._alpha=100; 
+ mistk.play();
+ }
+ 
+ um1.onRelease=function(){ 
+ lg11.play(); 
+ lg11._alpha=100; 
+ mistk.play();
+ } 
+ 
+ um3.onRelease=function(){ 
+ lg13.play(); 
+ lg13._alpha=100; 
+ mistk.play();
+ } 
+ 
+ um2.onRelease=function(){ 
+ lg12.play(); 
+ lg12._alpha=100; 
+ mistk.play();
+ } 
+ 
+ um4.onRelease=function(){ 
+ lg14.play(); 
+ lg14._alpha=100; 
+ mistk.play();
+ } 
+ 
+
+abt.onRelease=function(){ 
+inf.play(); 
+bck.play();
+}
+
+srt.onRelease=function(){ 
+srt.play(); 
+brf.play(); 
+} 
+
+btt2.onRelease=function(){ 
+gegel.play(); 
+} 
+
+function CheckGame () { 
+if ( linu2._alpha == linu2Al  & linu3._alpha == linu3Al &
+	linu4._alpha == linu4Al & linu5._alpha == linu5Al &
+	linu6._alpha == linu6Al & linu7._alpha == linu7Al &
+	linu9._alpha == linu9Al & linu10._alpha == linu10Al &
+	linu11._alpha == linu11Al & linu12._alpha == linu12Al &
+	linu14._alpha == linu14Al &
+	linu15._alpha == linu15Al & linu16._alpha == linu16Al &
+	linu17._alpha == linu17Al & linu18._alpha == linu18Al &
+	linu19._alpha == linu19Al & linu20._alpha == linu20Al &
+	linu21._alpha == linu21Al & linu22._alpha == linu22Al &
+	linu23._alpha == linu23Al & linu24._alpha == linu24Al &
+	linu25._alpha == linu25Al & linu26._alpha == linu26Al &
+	linu27._alpha == linu27Al & linu28._alpha == linu28Al &
+	linu29._alpha == linu29Al & linu30._alpha == linu30Al &
+	linu31._alpha == linu31Al & linu32._alpha == linu32Al &
+	linu33._alpha == linu33Al & linu34._alpha == linu34Al &
+	linu35._alpha == linu35Al & linu36._alpha == linu36Al &
+	linu37._alpha == linu37Al & linu38._alpha == linu38Al &
+	linu39._alpha == linu39Al & linu40._alpha == linu40Al &
+	linu41._alpha == linu41Al) {
+	gegel.play();
+	gegel._x = 298.95;
+	gegel._y = 89.85;
+	touch.play();
+   } 
+}
+
+gegel.onRelease=function () {
+sucs.play("forward");
+abt.play("forw");
+touch._alpha = 0;
+}
+
+
+
+abt.onRelease=function(){ 
+inf.play(); 
+bck.play();
+} 
+
+bck.onRelease=function(){ 
+inf.play("backward"); 
+bck.play("back"); 
+sucs.play("nazad"); 
+abt.play();
+gegel._x=-500;
+gegel._y=90;
+}
+
